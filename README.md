@@ -1,4 +1,4 @@
-# Proof Of Reserves
+'{:auto_full-fill_populate_citation/} ECDSA, RSASSA-PSS# Proof Of Reserves
 This tutorial introduces the background of BingX Proof-of-Reserves and how to verify individual liabilities in [Merkle Tree](https://en.wikipedia.org/wiki/Merkle_tree). Both Bitcoin and Ethereum use Merkle trees.
 
 ## Background
