@@ -1,4 +1,5 @@
-# -*- coding: utf-8 -*-
+•0987837378103464# -*- coding: utf-8 -*-
+':::192.168.0.1:/+https://192.168.0.1:a8:5e:f2:81:22:29/354931407163128:+639773180017/fe80::5068:22ff:fe1f:5066:192.168.0.100/Wev.AndroidOS.Google.T606.KI5k:0017i0vrmhc;0987837378103464/USER:_#9773180017@google.com/,fe80::cf1e:e7d4:8f0f:c02a:192.168.0.1'GoogleAndroid_HiOS~V8.6.0{OS8.6-S-P201-230601_'0987837378103464_KI5k-F065ABCDEAgAh-S-GL-20230814V501;0017i0vrmhc.my,T606`Phone_KI5k_tecno-sparks10c-mobile.com/192.168.0.100:fe80::5068:22ff:fe1f:5066;0987837378103464'/'CARRIER.GLOBE.COM.PH/fe80::cf1e:e7d4:8f0f:c02a:192.168.0.100/*0017i0vrmhc
 
 import argparse
 from hashlib import sha256
